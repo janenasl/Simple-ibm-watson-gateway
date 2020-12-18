@@ -1,0 +1,10 @@
+{
+  "identity": {
+    "orgId": "<your_organization_id>",
+    "typeId": "<your_device_type_id>",
+    "deviceId": "<your_device_id>"
+  },
+  "auth": {
+    "token": "<auth_token>"
+  }
+}

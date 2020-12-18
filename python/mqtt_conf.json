@@ -1,0 +1,10 @@
+{
+    "mqtt_sub": {
+        "broker_address": "localhost",
+        "broker_port": 1883,
+        "client_name": "<client_name>"
+    },
+    "topics": [ 
+	    "<add_topics_wich_you_want_to_subscribe_to>"
+    ]
+}
