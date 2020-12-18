@@ -21,6 +21,11 @@ pip install paho-mqtt
 ```
 If you have **Python2** and **Python3** installed, yuo can use **pip3** to install the necessary dependencies.
 
+To the the gateway just run this command:
+```
+python3 iot_ibm_gateway.py
+```
+
 ## Device configuration
 
 Your device must publis information over MQTT to your specified topic. Also don't forget that the server needs to subscribe to your topic.
